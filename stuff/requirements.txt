@@ -1,0 +1,17 @@
+requests
+python-socketio
+websocket-client
+distro
+bs4
+faker
+aiohttp
+pyfiglet
+colorama
+pyfiglet
+tqdm
+psutil
+asyncio
+aiofiles
+pycryptodome
+requests[socks]
+httpx[http2]
